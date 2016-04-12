@@ -31,7 +31,7 @@ It might not work on all networks!
 #include "utility/debug.h"
 #include "DHT.h"
 #include <SFE_BMP180.h>
-#include <Wire.h>
+// #include <Wire.h>
 // #include <ThingSpeak.h>
 
 // These are the interrupt and control pins
